@@ -4,18 +4,18 @@ A powerful Python tool that converts various document formats (DOCX, PDF, Markdo
 
 ## 📋 Table of Contents
 
-- [Features](#features)
-- [Supported Formats](#supported-formats)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Web Interface](#web-interface)
-  - [Command Line Interface](#command-line-interface)
-- [Configuration Options](#configuration-options)
-- [Examples](#examples)
-- [Technical Details](#technical-details)
-- [Requirements](#requirements)
-- [Troubleshooting](#troubleshooting)
-- [License](#license)
+- [Features](#-features)
+- [Supported Formats](#-supported-formats)
+- [Installation](#-installation)
+- [Usage](#-usage)
+  - [Web Interface](#-web-interface)
+  - [Command Line Interface](#-command-line-interface)
+- [Configuration Options](#-configuration-options)
+- [Examples](#-examples)
+- [Technical Details](#-technical-details)
+- [Requirements](#-requirements)
+- [Troubleshooting](#-troubleshooting)
+- [License](#-license)
 
 ## ✨ Features
 
